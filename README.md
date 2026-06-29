@@ -57,6 +57,3 @@ To successfully complete the Java FSE Deep Skilling track, candidates must satis
 - **Milestone Assessments:** Quizzes and coding challenges focusing on Core Java, Design Patterns, and SQL.
 - **Final Comprehensive Assessment:** A final technical examination covering the entire Full Stack curriculum. Passing this evaluation is a prerequisite for project allocation and final placement eligibility (GenC / GenC Next).
 
----
-
-*This repository is maintained as part of the Cognizant Digital Nurture 5.0 training program.*
