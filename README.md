@@ -26,6 +26,7 @@ The focus of this workspace is the **Design Patterns**, **Spring Core**, and **S
 
 ---
 
+
 ## 📊 Curriculum & Module Matrix
 
 | Week | Module / Topic | Path | Key Concepts Covered |
@@ -42,15 +43,18 @@ The focus of this workspace is the **Design Patterns**, **Spring Core**, and **S
 | | **Maven Build Management** | [`WEEK-2/Spring Core_Maven/04_Creating_and_configuring_maven`](./WEEK-2/Spring%20Core_Maven/04_Creating_and_configuring_maven) | pom.xml, Dependency Management, Plugins, Build Lifecycle |
 | | **Spring Data JPA & Hibernate** | [`WEEK-2/Spring Data JPA with Spring Boot, Hibernate`](./WEEK-2/Spring%20Data%20JPA%20with%20Spring%20Boot,%20Hibernate) | ORM Concepts, Entity Mapping, JpaRepository, CRUD Operations, JPQL, Transactions, Hibernate SQL Logging |
 
-| **Week 3** | **Spring REST using Spring Boot 3** | [`WEEK-3/Spring REST using Spring Boot 3`](./WEEK-3/Spring%20REST%20using%20Spring%20Boot%203) | REST APIs, HTTP Methods (GET, POST, PUT, DELETE), Request Mapping, Path Variables, Request Parameters, JSON Serialization, ResponseEntity, Exception Handling |
-| **Week 4** | **Code Quality & SonarQube** | [`WEEK-4/Code Quality and SonarQube`](./WEEK-4/Code%20Quality%20and%20SonarQube) | Static Code Analysis, Code Smells, Technical Debt, Security Hotspots, Maintainability, SonarQube Dashboard |
-| | **Microservices with Spring Boot 3 & Spring Cloud** | [`WEEK-4/Microservices`](./WEEK-4/Microservices) | Microservice Architecture, Service Discovery (Eureka), API Gateway, Config Server, Inter-service Communication, Resilience Patterns |
-| **Week 5** | **React Fundamentals** | [`WEEK-5/React`](./WEEK-5) | React Components, JSX, Props, State, Event Handling, Conditional Rendering, Lists & Keys, Forms, Component Lifecycle, Hooks |
-| **Week 6** | **Advanced React** | [`WEEK-6/React`](./WEEK-6) | React Router, Context API, Custom Hooks, API Integration, State Management, Component Reusability, Project Structure, Performance Optimization |
-| **Week 7** | **DevOps & Docker** | [`WEEK-7/DevOps_Docker`](./WEEK-7/DevOps_Docker) | Git Workflow, CI/CD Pipelines, Docker Images & Containers, Docker Compose, Containerization Best Practices |
-| | **Cloud Fundamentals** | [`WEEK-7/Cloud`](./WEEK-7/Cloud) | Cloud Computing Concepts, IaaS, PaaS, SaaS, Virtualization, Cloud Deployment Models, Cloud Services Overview |
-| | **Generative AI Fundamentals** | [`WEEK-7/GenAI`](./WEEK-7/GenAI) | Introduction to Generative AI, Large Language Models (LLMs), Prompt Engineering, AI-assisted Development, Responsible AI, Enterprise AI Applications |
----
+| **Week 3** | **Spring REST using Spring Boot 3** | [`WEEK-3/Spring REST using Spring Boot 3`](./WEEK-3/Spring%20REST%20using%20Spring%20Boot%203) | REST Architecture, HTTP Methods, REST Controllers, Request Mapping, Path Variables, Request Parameters, JSON Serialization, ResponseEntity, Exception Handling |
+
+| **Week 4** | **Code Quality & SonarQube** | [`WEEK-4/Code Quality and SonarQube`](./WEEK-4/Code%20Quality%20and%20SonarQube) | Static Code Analysis, Code Smells, Technical Debt, Security Analysis, Maintainability Metrics |
+| | **Microservices with Spring Boot 3 & Spring Cloud** | [`WEEK-4/Microservices`](./WEEK-4/Microservices) | Microservice Architecture, Eureka Server, API Gateway, Config Server, Inter-Service Communication, Fault Tolerance |
+
+| **Week 5** | **React Fundamentals** | [`WEEK-5/React`](./WEEK-5) | JSX, Components, Props, State, Event Handling, Conditional Rendering, Lists & Keys, Forms, React Hooks |
+
+| **Week 6** | **Advanced React** | [`WEEK-6/React`](./WEEK-6) | React Router, Context API, Custom Hooks, API Integration, State Management, Performance Optimization, Project Structure |
+
+| **Week 7** | **DevOps & Docker** | [`WEEK-7/DevOps_Docker`](./WEEK-7/DevOps_Docker) | Git Workflow, CI/CD Pipelines, Docker Images, Containers, Docker Compose, Deployment Basics |
+| | **Cloud Fundamentals** | [`WEEK-7/Cloud`](./WEEK-7/Cloud) | Cloud Computing, IaaS, PaaS, SaaS, Deployment Models, Virtualization, Cloud Services |
+| | **Generative AI Fundamentals** | [`WEEK-7/GenAI`](./WEEK-7/GenAI) | Introduction to LLMs, Prompt Engineering, AI-assisted Development, Responsible AI, Enterprise AI Applications |
 
 ## 📖 Program Overview
 
