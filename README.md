@@ -30,8 +30,18 @@ The focus of this workspace is the **Design Patterns**, **Spring Core**, and **S
 
 | Week | Module / Topic | Path | Key Concepts Covered |
 | :--- | :--- | :--- | :--- |
-| Week | Module / Topic | Path | Key Concepts Covered |
-| :--- | :--- | :--- | :--- |
+| **Week 1** | **Data Structures & Algorithms** | [`WEEK-1/Data Structures and Algorithms`](./WEEK-1/Data%20Structures%20and%20Algorithms) | Time & Space Complexity, Big-O Analysis, Searching Algorithms, Sorting Algorithms, Recursion, Problem Solving Techniques |
+| | **Design Patterns & Principles** | [`WEEK-1/Design Patterns`](./WEEK-1/Design%20Patterns) | SOLID Principles, Factory Pattern, Singleton Pattern, Builder Pattern, Adapter Pattern, Strategy Pattern |
+| | **JUnit 5 Testing** | [`WEEK-1/JUnit_Basic_Testing`](./WEEK-1/JUnit_Basic_Testing) | Unit Testing Fundamentals, Assertions, Test Lifecycle, Test Suites, Parameterized Tests |
+| | **Mockito** | [`WEEK-1/Mockito`](./WEEK-1/Mockito) | Mock Objects, Stubbing, Verification, Dependency Isolation, Unit Testing Best Practices |
+| | **Logging Framework (SLF4J)** | [`WEEK-1/SLF4J_Logging`](./WEEK-1/SLF4J_Logging) | Logging Levels, Logger Configuration, Exception Logging, Best Practices |
+| | **Oracle PL/SQL Programming** | [`WEEK-1/PLSQL`](./WEEK-1/PLSQL) | Stored Procedures, Functions, Cursors, Triggers, Packages, Exception Handling |
+
+| **Week 2** | **Spring Core & Maven** | [`WEEK-2/Spring Core_Maven`](./WEEK-2/Spring%20Core_Maven) | IoC Container, Dependency Injection, Bean Lifecycle, ApplicationContext, XML & Annotation Configuration, Maven Project Structure |
+| | **Dependency Injection** | [`WEEK-2/Spring Core_Maven/02_Dependency_Injection`](./WEEK-2/Spring%20Core_Maven/02_Dependency_Injection) | Constructor Injection, Setter Injection, Autowiring, Bean Scope |
+| | **Maven Build Management** | [`WEEK-2/Spring Core_Maven/04_Creating_and_configuring_maven`](./WEEK-2/Spring%20Core_Maven/04_Creating_and_configuring_maven) | pom.xml, Dependency Management, Plugins, Build Lifecycle |
+| | **Spring Data JPA & Hibernate** | [`WEEK-2/Spring Data JPA with Spring Boot, Hibernate`](./WEEK-2/Spring%20Data%20JPA%20with%20Spring%20Boot,%20Hibernate) | ORM Concepts, Entity Mapping, JpaRepository, CRUD Operations, JPQL, Transactions, Hibernate SQL Logging |
+
 | **Week 3** | **Spring REST using Spring Boot 3** | [`WEEK-3/Spring REST using Spring Boot 3`](./WEEK-3/Spring%20REST%20using%20Spring%20Boot%203) | REST APIs, HTTP Methods (GET, POST, PUT, DELETE), Request Mapping, Path Variables, Request Parameters, JSON Serialization, ResponseEntity, Exception Handling |
 | **Week 4** | **Code Quality & SonarQube** | [`WEEK-4/Code Quality and SonarQube`](./WEEK-4/Code%20Quality%20and%20SonarQube) | Static Code Analysis, Code Smells, Technical Debt, Security Hotspots, Maintainability, SonarQube Dashboard |
 | | **Microservices with Spring Boot 3 & Spring Cloud** | [`WEEK-4/Microservices`](./WEEK-4/Microservices) | Microservice Architecture, Service Discovery (Eureka), API Gateway, Config Server, Inter-service Communication, Resilience Patterns |
