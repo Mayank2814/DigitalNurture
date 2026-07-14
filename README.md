@@ -30,17 +30,16 @@ The focus of this workspace is the **Design Patterns**, **Spring Core**, and **S
 
 | Week | Module / Topic | Path | Key Concepts Covered |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | **Data Structures** | [`WEEK-1/Data structures and Algorithms`](./WEEK-1/Data%20structures%20and%20Algorithms) | Binary/Linear search, Recursion, Time & Space Complexity |
-| | **Design Patterns** | [`WEEK-1/Design-Patterns`](./WEEK-1/Design-Patterns) | Creational Patterns (Factory, Builder, Singleton), Structural Patterns (Adapter), Behavioral Patterns (Strategy) |
-| | **Unit Testing** | [`WEEK-1/JUnit_Basic_Testing`](./WEEK-1/JUnit_Basic_Testing) | JUnit 5 assertions, setup/teardown hooks, edge-case testing |
-| | **Mocking** | [`WEEK-1/Mockito`](./WEEK-1/Mockito) | Stubbing external APIs, interaction verification, mock creation |
-| | **Logging** | [`WEEK-1/SL4J_Logging`](./WEEK-1/SL4J_Logging) | SLF4J Logger initialization, logging levels (trace, debug, info, warn, error) |
-| | **RDBMS / PL/SQL** | [`WEEK-1/plsql`](./WEEK-1/plsql) | Cursors, Triggers, Packages, Stored Procedures, Error handling |
-| **Week 2** | **Spring Core** | [`WEEK-2/Spring Core_Maven`](./WEEK-2/Spring%20Core_Maven) | ApplicationContext configuration, Bean lifecycle & management, XML bean definitions |
-| | **Dependency Injection**| [`WEEK-2/Spring Core_Maven/02_Dependency_Injection`](./WEEK-2/Spring%20Core_Maven/02_Dependency_Injection) | Setter-based injection, property element configurations |
-| | **Maven & Spring** | [`WEEK-2/Spring Core_Maven/04_Creating_and_configuring_maven`](./WEEK-2/Spring%20Core_Maven/04_Creating_and_configuring_maven) | `pom.xml` dependencies, build configuration, Maven integration with Spring |
-| | **Spring Data JPA** | [`WEEK-2/Spring Data JPA with Spring Boot, Hibernate`](./WEEK-2/Spring%20Data%20JPA%20with%20Spring%20Boot,%20Hibernate) | JPA vs Hibernate, Spring Boot auto-configuration, repository interfaces (`JpaRepository`), CRUD services, transactional updates (`@Transactional`), logging Hibernate SQL trace statements |
-
+| Week | Module / Topic | Path | Key Concepts Covered |
+| :--- | :--- | :--- | :--- |
+| **Week 3** | **Spring REST using Spring Boot 3** | [`WEEK-3/Spring REST using Spring Boot 3`](./WEEK-3/Spring%20REST%20using%20Spring%20Boot%203) | REST APIs, HTTP Methods (GET, POST, PUT, DELETE), Request Mapping, Path Variables, Request Parameters, JSON Serialization, ResponseEntity, Exception Handling |
+| **Week 4** | **Code Quality & SonarQube** | [`WEEK-4/Code Quality and SonarQube`](./WEEK-4/Code%20Quality%20and%20SonarQube) | Static Code Analysis, Code Smells, Technical Debt, Security Hotspots, Maintainability, SonarQube Dashboard |
+| | **Microservices with Spring Boot 3 & Spring Cloud** | [`WEEK-4/Microservices`](./WEEK-4/Microservices) | Microservice Architecture, Service Discovery (Eureka), API Gateway, Config Server, Inter-service Communication, Resilience Patterns |
+| **Week 5** | **React Fundamentals** | [`WEEK-5/React`](./WEEK-5) | React Components, JSX, Props, State, Event Handling, Conditional Rendering, Lists & Keys, Forms, Component Lifecycle, Hooks |
+| **Week 6** | **Advanced React** | [`WEEK-6/React`](./WEEK-6) | React Router, Context API, Custom Hooks, API Integration, State Management, Component Reusability, Project Structure, Performance Optimization |
+| **Week 7** | **DevOps & Docker** | [`WEEK-7/DevOps_Docker`](./WEEK-7/DevOps_Docker) | Git Workflow, CI/CD Pipelines, Docker Images & Containers, Docker Compose, Containerization Best Practices |
+| | **Cloud Fundamentals** | [`WEEK-7/Cloud`](./WEEK-7/Cloud) | Cloud Computing Concepts, IaaS, PaaS, SaaS, Virtualization, Cloud Deployment Models, Cloud Services Overview |
+| | **Generative AI Fundamentals** | [`WEEK-7/GenAI`](./WEEK-7/GenAI) | Introduction to Generative AI, Large Language Models (LLMs), Prompt Engineering, AI-assisted Development, Responsible AI, Enterprise AI Applications |
 ---
 
 ## 📖 Program Overview
