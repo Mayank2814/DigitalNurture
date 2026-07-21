@@ -1,14 +1,14 @@
 export const Blogs = [
   {
-    headLine: "48 Laws of Power",
-    desc: "Robert Greene's 48 Laws of Power is a non-fiction ",
+    headLine: "The Future of Artificial Intelligence",
+    desc: "Explore how AI is transforming industries, improving productivity, and shaping the future of technology through automation and intelligent systems.",
   },
   {
-    headLine: "Laws of Human Nature",
-    desc: "Laws of Human Nature is a book by Robert Greene",
+    headLine: "Top 10 Web Development Trends",
+    desc: "Discover the latest trends in web development, including modern frameworks, responsive design, serverless architecture, and AI-powered applications.",
   },
   {
-    headLine: "Atomic Habits",
-    desc: "Atomic Habits is a book by James Clear",
+    headLine: "A Beginner's Guide to Cybersecurity",
+    desc: "Learn the fundamentals of cybersecurity, common online threats, and practical steps to protect your personal information and digital devices.",
   },
 ];
