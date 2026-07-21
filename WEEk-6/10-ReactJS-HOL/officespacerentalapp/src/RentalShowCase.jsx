@@ -1,8 +1,8 @@
 import image from "./assets/360.png";
 export default function RentalShowCase() {
-  const name = "oggy";
-  const price = 12000;
-  const location = "vijayawada";
+  const name = "Max";
+  const price = 10000;
+  const location = "Bihar";
 
   return (
     <>
