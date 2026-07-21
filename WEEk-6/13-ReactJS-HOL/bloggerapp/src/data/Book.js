@@ -1,17 +1,17 @@
 export const Books = [
   {
-    title: "Avengers",
-    price: 300,
-    saleCount: 100,
+    title: "Atomic Habits",
+    price: 599,
+    saleCount: 450,
   },
   {
-    title: "X-Men",
-    price: 400,
-    saleCount: 70,
+    title: "The Psychology of Money",
+    price: 499,
+    saleCount: 380,
   },
   {
-    title: "Avengers Infinity War",
-    price: 500,
-    saleCount: 300,
+    title: "Deep Work",
+    price: 699,
+    saleCount: 275,
   },
 ];
