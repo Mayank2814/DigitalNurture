@@ -1,0 +1,7 @@
+Git Branching and Merging Hands-On Lab
+
+Name: Mayank Sagar
+
+Current Branch: GitNewBranch
+
+This file was created in the GitNewBranch branch to demonstrate branching and merging in Git.
